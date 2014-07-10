@@ -3,6 +3,6 @@
 
 ### Small heading
 
-*shrenik
-*ria
-*rohan
+*shrenik c
+*ria c
+*rohan c
